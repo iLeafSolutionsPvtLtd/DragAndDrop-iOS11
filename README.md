@@ -1,5 +1,10 @@
 # Drag and Drop
 
+
+### Preview
+
+! [Demo] (https://user-images.githubusercontent.com/32927921/36656888-5169cf80-1af0-11e8-97d1-59787fa4fda8.gif)
+
 Drag and drop for a table view.
 
 To enable drag and drop, you specify the table view as its own drag delegate and drop delegate. To provide or consume data, you implement the drag and drop delegate methods.
