@@ -3,7 +3,8 @@
 
 ### Preview
 
-! [Demo] (https://user-images.githubusercontent.com/32927921/36656888-5169cf80-1af0-11e8-97d1-59787fa4fda8.gif)
+![Demo](https://user-images.githubusercontent.com/32927921/36656888-5169cf80-1af0-11e8-97d1-59787fa4fda8.gif)
+
 
 Drag and drop for a table view.
 
